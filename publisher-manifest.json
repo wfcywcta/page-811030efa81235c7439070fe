@@ -1,0 +1,124 @@
+{
+  "version": 2,
+  "template_version": "7ffa5ebee0a6d05c86c7",
+  "page_size": 20,
+  "site_id": "9b186c32fdfef772787ed14f",
+  "owner": "wfcywcta",
+  "repo": "page-811030efa81235c7439070fe",
+  "title": "鸡场",
+  "mode": "repo",
+  "articles": [
+    {
+      "id": "811030efa81235c7439070fe",
+      "a": "鸡场",
+      "b": "",
+      "entity": "鸡场",
+      "brand": "鸡场",
+      "separator": "",
+      "path": "index.html",
+      "hash": "69818da02bb15b8159c4045a9272385acd613a9c5dc7536421a1d266965a6564",
+      "content": {
+        "keyword1": "鸡场",
+        "keyword2": "",
+        "primary_entity": "鸡场",
+        "plans": [
+          {
+            "name": "基础版",
+            "price": "¥15/月",
+            "annual_price": "按年付仅需 ¥150/年",
+            "features": [
+              "每月 100GB 极速流量",
+              "支持 3 台设备同时在线",
+              "解锁基础流媒体",
+              "普通线路节点池"
+            ]
+          },
+          {
+            "name": "旗舰版",
+            "price": "¥35/月",
+            "annual_price": "按年付仅需 ¥350/年",
+            "featured": true,
+            "features": [
+              "每月 300GB 极速流量",
+              "支持 5 台设备同时在线",
+              "全节点原生流媒体解锁",
+              "IPLC 专线游戏加速优化",
+              "7x24 优先工单支持"
+            ]
+          },
+          {
+            "name": "团队版",
+            "price": "¥85/月",
+            "annual_price": "按年付仅需 ¥850/年",
+            "features": [
+              "每月 1000GB 极速流量",
+              "支持 20 台设备同时在线",
+              "VIP 专属高带宽节点",
+              "支持企业定制路由",
+              "专属客户经理服务"
+            ]
+          }
+        ],
+        "clients": [],
+        "_offline": false,
+        "content": {
+          "AI_HERO_INTRO": "鸡场是提供稳定机场订阅与VPN梯子网络加速的官方网站，支持多平台客户端下载、一键配置流程，覆盖流媒体解锁、游戏加速与跨境办公等场景，套餐灵活透明。",
+          "AI_DESCRIPTION": "鸡场是提供稳定机场订阅与VPN梯子网络加速的官方网站，支持多平台客户端下载、一键配置流程，覆盖流媒体解锁、游戏加速与跨境办公等场景，套餐灵活透明。"
+        },
+        "_brand_page": {
+          "version": 1,
+          "body": "<style>*{box-sizing:border-box}body{margin:0;font-family:-apple-system,BlinkMacSystemFont,\"Segoe UI\",Roboto,sans-serif;background-color:#F7F5F0;color:#1A332C;font-size:16px;line-height:1.7;overflow-x:hidden}a{color:#1B5E20;text-decoration:none}header{background-color:#1B5E20;color:#F7F5F0;padding:0.8rem 1rem}nav{display:flex;flex-wrap:wrap;justify-content:center;align-items:center;gap:0.75rem;max-width:1100px;margin:0 auto}nav a{color:#C8E6C9}.logo{color:#FFFFFF;font-weight:700;font-size:1.35rem}main{display:block}.container{max-width:1100px;margin:0 auto;padding:0 1rem}h1{font-size:2.1rem;color:#145A32;text-align:center;margin:1.8rem 0 1rem}h2{font-size:1.55rem;color:#1B5E20;margin:1.5rem 0 0.8rem;padding-bottom:0.3rem;border-bottom:2px solid #A5D6A7}h3{font-size:1.2rem;color:#2E7D32;margin:1rem 0 0.5rem}.stagger{display:flex;flex-direction:column;gap:1.5rem;margin:2rem 0}.highlight-box{background-color:#E8F5E9;padding:1.5rem;border-radius:8px;border:1px solid #A5D6A7}.plans{display:flex;flex-wrap:wrap;gap:1.2rem;justify-content:center;margin:1.5rem 0}.plan{background:#FFFFFF;border:1px solid #C8E6C9;border-radius:8px;padding:1.5rem;flex:1 1 250px;max-width:340px}.plan.featured{background:#E8F5E9;border:2px solid #2E7D32}.price{font-size:1.7rem;font-weight:700;color:#1B5E20;margin:0.4rem 0}.plan ul{padding-left:1.2rem;margin:0.8rem 0}details{background:#FFFFFF;border-radius:6px;margin-bottom:0.8rem;padding:0.3rem 1rem 0.8rem;border:1px solid #C8E6C9}summary{font-weight:600;padding:0.7rem 0;color:#1B5E20}footer{background-color:#1B5E20;color:#E8F5E9;padding:2rem 1rem;margin-top:2.5rem;font-size:0.92rem}footer a{color:#C8E6C9}footer h3{color:#FFFFFF;font-size:1.1rem}.ad-slot{background:rgba(255,255,255,0.12);padding:1rem;text-align:center;margin-bottom:1.5rem;border:1px dashed #A5D6A7}@media(min-width:768px){.stagger{flex-direction:row;align-items:flex-start}.stagger.reverse{flex-direction:row-reverse}.stagger>*{flex:1;min-width:0}}@media(max-width:600px){h1{font-size:1.75rem}nav{font-size:0.88rem;gap:0.5rem}.plan{max-width:none}}</style><header><nav><a href=\"#\" class=\"logo\">鸡场</a><a href=\"#intro\">品牌简介</a><a href=\"#plans\">订阅套餐</a><a href=\"#scenarios\">使用场景</a><a href=\"#setup\">配置流程</a><a href=\"#download\">客户端下载</a><a href=\"#faq\">常见问题</a></nav></header><main><div class=\"container\"><h1>鸡场官方网站</h1><p>鸡场提供专业机场订阅与 VPN 梯子网络加速服务。官方网站集中展示套餐、配置流程与客户端下载指引，帮助用户快速完成订阅导入并稳定连接全球节点。</p></div><section id=\"intro\" class=\"container stagger\"><div><h2>品牌简介</h2><p>鸡场是面向个人与小团队的机场订阅服务。我们整合多地区线路，提供可导入主流客户端的订阅链接，覆盖日常加速、流媒体与游戏场景。作为官方网站，鸡场只通过本站发布套餐说明、配置步骤与下载指引，避免来路不明的安装包与虚假节点。</p><p>服务侧重点在可预期的配置流程：购买后即可获取订阅，复制到 Clash、Shadowrocket、v2rayN 等客户端更新节点。线路包含普通节点与旗舰 IPLC 专线，按套餐区分流量、设备数与解锁能力。价格公开，年付可降低月均成本。</p><p>鸡场不 bundling 闭源修改版客户端，用户自行从可信渠道安装软件后再导入本站订阅。节点会定期维护，工单通道用于处理连接与解锁问题。选择鸡场即选择可核对的官方身份与可重复的操作说明，而不是一次性的临时分享。</p></div><div class=\"highlight-box\"><h3>鸡场核心能力</h3><ul><li>订阅即用，兼容 Clash / Shadowrocket 等客户端</li><li>基础到团队三级套餐，流量与设备数清晰</li><li>旗舰版强调原生流媒体与 IPLC 游戏线路</li><li>配置流程按注册、下载、导入、选节点拆解</li><li>官网统一入口，便于核对下载与公告</li></ul></div></section><section id=\"plans\" class=\"container\"><h2>订阅套餐</h2><p>按月流量、同时在线设备与线路类型选择。年付价格在各套餐中单独标出。旗舰版适合需要稳定解锁与游戏加速的用户，团队版面向多设备共享。</p><div class=\"plans\"><div class=\"plan\"><h3>基础版</h3><p class=\"price\">¥15/月</p><p>按年付仅需 ¥150/年</p><ul><li>每月 100GB 极速流量</li><li>支持 3 台设备同时在线</li><li>解锁基础流媒体</li><li>普通线路节点池</li></ul><p><a href=\"#setup\">查看配置流程</a></p></div><div class=\"plan featured\"><h3>旗舰版 推荐</h3><p class=\"price\">¥35/月</p><p>按年付仅需 ¥350/年</p><ul><li>每月 300GB 极速流量</li><li>支持 5 台设备同时在线</li><li>全节点原生流媒体解锁</li><li>IPLC 专线游戏加速优化</li><li>7x24 优先工单支持</li></ul><p><a href=\"#setup\">查看配置流程</a></p></div><div class=\"plan\"><h3>团队版</h3><p class=\"price\">¥85/月</p><p>按年付仅需 ¥850/年</p><ul><li>每月 1000GB 极速流量</li><li>支持 20 台设备同时在线</li><li>VIP 专属高带宽节点</li><li>支持企业定制路由</li><li>专属客户经理服务</li></ul><p><a href=\"#setup\">查看配置流程</a></p></div></div></section><section id=\"scenarios\" class=\"container stagger reverse\"><div class=\"highlight-box\"><h3>典型使用场景</h3><p>远程会议与云文档协作<br>海外流媒体 4K 播放与字幕<br>游戏对战与客户端下载加速<br>开源仓库、论文与开发者服务访问<br>多账号跨境电商与内容管理</p></div><div><h2>使用场景</h2><h3>跨境远程办公</h3><p>需要连接海外办公套件、代码仓库或视频会议时，鸡场节点可降低超时与重连。旗舰 IPLC 更适合对延迟敏感的会议。客户端分流可让国内站点直连，避免所有流量绕行。</p><h3>流媒体解锁</h3><p>基础版覆盖部分平台区域内容。旗舰版与团队版强调原生 IP 与全节点解锁，减少验证失败。建议在客户端中选择标注流媒体的线路，并保持订阅自动更新。</p><h3>游戏加速</h3><p>对延迟与丢包敏感的对战与下载，优先使用游戏优化或 IPLC 节点。团队版高带宽适合多人共享或直播旁路。实际效果因运营商与时段而异，可在客户端按延迟排序测试。</p><h3>学习与资料访问</h3><p>访问国际文档、课程与学术检索时，稳定订阅比频繁更换临时节点更省事。配合规则集可将搜索与视频走代理、国内服务直连，减少干扰。</p></div></section><section id=\"setup\" class=\"container\"><h2>配置流程与操作说明</h2><p>鸡场把上手路径拆成可核对的四步：买套餐拿到订阅、安装对应客户端、导入并更新节点、选择线路连接。强调配置流程是为了让首次使用的人也能在短时间内完成，而不依赖口播或截图群发。</p><div class=\"stagger\"><div><h3>第一步：选择套餐并获取订阅链接</h3><p>阅读本页套餐差异后完成注册与支付。到账后在用户中心复制订阅地址，通常同时提供 Clash 配置与通用订阅格式。链接请自行保管，不要公开张贴。年付用户同样即时开通，可在同一入口查看剩余流量与到期时间。</p><h3>第三步：导入订阅并更新节点列表</h3><p>在客户端的订阅或配置页粘贴链接，或使用支持的二维码方式添加。执行更新后应出现鸡场节点分组。建议打开定时更新，以便同步线路调整。若提示失败，先检查是否完整复制、客户端版本是否过旧，再尝试更换配置类型。</p></div><div><h3>第二步：按设备下载并安装客户端</h3><p>Windows 常用 Clash Verge 或 v2rayN，macOS 常用 Clash 系或 Surge，iOS 需外区账号安装 Shadowrocket、Stash 或 Quantumult X，Android 常用 Clash Meta 或 v2rayNG。请通过本站下载专区指引或软件官方渠道获取，不要使用来历不明的「一键包」。安装后无需改系统代理以外的危险权限。</p><h3>第四步：选择节点、开启代理并验证</h3><p>按延迟或类型筛选节点，游戏选 IPLC 或游戏组，视频选流媒体组。开启系统代理或 TUN。用浏览器打开海外页面、播放一段视频做验证。国内站点应仍可直连。出现问题先更新订阅、更换节点，再对照 FAQ。旗舰用户可走优先工单。</p></div></div><p>进阶配置可在客户端添加分流规则，将国内 IP 与常见视频站点直连。鸡场订阅可与公开规则集配合。路由器或 OpenWrt 用户将订阅填入 Mihomo / Clash 即可让全家设备走同一套节点，仍受套餐设备与流量限制约束。</p></section><section id=\"download\" class=\"container stagger reverse\"><div><h2>客户端下载</h2><p>鸡场官方网站提供订阅与配置说明，客户端本身来自各开源或商业项目。请按下述分类前往对应下载指引，安装完成后再回到配置流程导入鸡场订阅。我们会随客户端版本变化更新兼容说明。</p><ul><li>Windows：Clash Verge、v2rayN — <a href=\"#\">下载指引</a></li><li>macOS：Clash Meta 系、Surge — <a href=\"#\">下载指引</a></li><li>iOS：Shadowrocket、Quantumult X、Stash（外区 App Store）</li><li>Android：Clash Meta、NekoBox — <a href=\"#\">下载指引</a></li><li>Linux 与路由器：Mihomo / Clash Premium，可配合 OpenWrt</li></ul><p>官网下载入口只做跳转说明，不托管来路不明的修改版。任何声称鸡场「破解客户端」或「免费无限流量」的文件都与本站无关。</p></div><div class=\"highlight-box\"><h3>下载与安全提示</h3><p>只使用本页锚点指引或各客户端项目官方发布页。核对数字签名或应用商店开发者名称。订阅链接只在鸡场用户中心生成。若设备提示未知来源，优先回到官网核对，而不是继续安装。</p><p><a href=\"#faq\">客户端与导入相关问题</a></p></div></section><section id=\"faq\" class=\"container\"><h2>常见问题</h2><details><summary>鸡场机场如何购买订阅？开通要多久？</summary><p>在本站选择基础版、旗舰版或团队版，完成支付后订阅即时写入账号。用户中心可复制 Clash 或其他格式链接。支付若有延迟，刷新订单或提交工单即可，一般无需等待人工开通。</p></details><details><summary>鸡场支持哪些客户端？手机和电脑能否共用一个订阅？</summary><p>Windows、macOS、iOS、Android 与常见 Linux 均可用。电脑端以 Clash、v2rayN 为主，手机端以 Shadowrocket 与 Clash Meta 为主。同一订阅可在套餐设备数内同时在线，团队版适合家庭或多台办公设备共享，仍共享总流量。</p></details><details><summary>导入鸡场订阅失败或节点列表为空怎么办？</summary><p>确认链接完整、无空格，并按客户端要求选择 Clash 或通用订阅类型。更新客户端到较新版本后再更新订阅。网络需能访问订阅地址。若仍失败，更换客户端尝试，或在工单中提供客户端名称与报错原文。</p></details><details><summary>速度慢、流媒体不能播或游戏延迟高如何处理？</summary><p>先更新订阅并按延迟排序。流媒体请改用解锁节点或升级到旗舰全节点原生解锁。游戏走 IPLC 或游戏分组，并关闭占用带宽的下载。不同运营商表现不同，可多测几个节点。基础版流媒体能力有限，这是套餐差异而非故障。</p></details><details><summary>流量用完或套餐到期会怎样？支持退款吗？</summary><p>流量耗尽后加速能力会明显下降，需要续费或升级才能恢复套餐额度。到期前可在官网续费，年付可减少中断。虚拟订阅服务开通后通常不支持无理由退款；未使用且符合规则的个案可通过工单说明情况。保留支付记录便于核对。</p></details><details><summary>如何确认这是鸡场官方网站而不是仿冒下载页？</summary><p>认准品牌名称「鸡场」与本站套餐、配置流程、客户端指引的一致性。官方不通过随机网盘分发安装包，也不承诺无法核验的永久免费。下载只使用页面内锚点指引。遇到索要额外远控权限或扫来路不明码的请求应停止操作。</p></details></section><section><h2>套餐</h2>{{PLANS_HTML}}</section><section><h2>客户端</h2>{{CLIENTS_HTML}}</section></main><footer><div class=\"container\"><div class=\"ad-slot\">广告位：网络加速与工具类合作展示。鸡场官网可提供品牌相关图文位置，具体以官方沟通为准。</div><h3>友情链接</h3><p><a href=\"#\">Clash 使用说明</a> · <a href=\"#\">v2ray 客户端</a> · <a href=\"#\">节点延迟检测</a> · <a href=\"#\">分流规则示例</a> · <a href=\"#\">移动端导入教程</a></p><p>网站地图： <a href=\"#intro\">品牌简介</a> · <a href=\"#plans\">订阅套餐</a> · <a href=\"#setup\">配置流程</a> · <a href=\"#download\">客户端下载</a> · <a href=\"#faq\">常见问题</a></p><p>鸡场官方网站 · 机场订阅、VPN 梯子网络加速与客户端下载指引</p><p>使用鸡场服务前请了解当地网络与软件使用规范。本页内容用于说明套餐、场景与配置步骤，不构成对任何第三方平台可用性的永久保证。</p></div></footer>",
+          "hash": "deef059c0510b583f77b436ebe311749c5b740e6c7f1029d4dfd9363c3930a5b",
+          "seo": {
+            "title": "鸡场官网 - 机场订阅与客户端下载 | VPN梯子网络加速服务",
+            "keywords": "鸡场,鸡场机场,鸡场VPN,机场订阅,VPN梯子,网络加速,加速器,客户端下载,官网下载,Clash客户端,Shadowrocket",
+            "description": "鸡场是提供稳定机场订阅与VPN梯子网络加速的官方网站，支持多平台客户端下载、一键配置流程，覆盖流媒体解锁、游戏加速与跨境办公等场景，套餐灵活透明。"
+          },
+          "provider": "grok"
+        }
+      }
+    }
+  ],
+  "domain": {
+    "apex": "nxlrx.cn",
+    "host": "p-c65f9f25df.nxlrx.cn",
+    "kind": "subdomain",
+    "candidate_roots_ref": "subdomain_roots:91e741dce7c147d9ce91af6f84daa678dae755807d903b04925261e0a3a8d804",
+    "prefix_mode": "auto"
+  },
+  "friendlinks": [
+    {
+      "host": "nxlrx.cn",
+      "url": "https://nxlrx.cn/",
+      "label": "EdNovas云(EdNovas)",
+      "apex": "nxlrx.cn",
+      "kind": null,
+      "identity": "wkyaxrbu/page-97d8d14206b00e0db417a527"
+    },
+    {
+      "host": "xcrkjxg.cn",
+      "url": "https://xcrkjxg.cn/",
+      "label": "鸡场",
+      "apex": "xcrkjxg.cn",
+      "kind": null,
+      "identity": "wbafwstcc/page-537ceb2e4609e9d57656cf64"
+    },
+    {
+      "host": "xn--4gqp6ip3a758l.com",
+      "url": "https://xn--4gqp6ip3a758l.com/",
+      "label": "鸡场",
+      "apex": "xn--4gqp6ip3a758l.com",
+      "kind": null,
+      "identity": "kjcpyecst/page-b1309712f77d17d1e789b21a"
+    }
+  ],
+  "file_hashes": {
+    "index.html": "4d52881ebf45c71f57bef92937368d2488beecdd1da203676dc7edaa5434b29c",
+    "sitemap.xml": "568595496ae9523ca5ae7e5e2fcaba668856e84d9806f4e006605ba2a9a059bb",
+    ".nojekyll": "12ae32cb1ec02d01eda3581b127c1fee3b0dc53572ed6baf239721a03d82e126",
+    "CNAME": "55303e47caad6afb83324f109eb1749ee19fb41bb51f7b28179ae6387130a4a5",
+    "robots.txt": "3d3cdfacb55115f1014761387e289a9cdd735e89086ee70a1267a3a3d907c1d0",
+    "5a5aa1f473e88693032b7f13b4f5a5ff.txt": "7d9a6e4fbd10043b3a51b32944b450aa76d12be951a01d01b4cd1e83e635028d"
+  },
+  "revision": "0e11d0e9621fb153420c70631380cfc65785a9c44771df38721bd1312c6d0270"
+}
